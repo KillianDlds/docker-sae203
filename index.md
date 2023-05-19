@@ -2,7 +2,7 @@
 ## Groupe 5
 ### DESLANDES KILLIAN - LORENZO DEMACEDO - DAMIEN MOREAU
 ------------------------------------------------------
-
+![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Ffr%2F5%2F51%2FLogo_Inter_mutuelles_assistance.png&tbnid=9X9IdVYw2HYyTM&vet=12ahUKEwi-ivit2IH_AhV0oicCHdi7AEYQMygBegUIARDCAQ..i&imgrefurl=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FGroupe_IMA&docid=fL05GROj6bW-sM&w=3910&h=1920&q=ima&client=opera-gx&ved=2ahUKEwi-ivit2IH_AhV0oicCHdi7AEYQMygBegUIARDCAQ)
 # 1- Instructions pour lancer l'application
 
 - Vérifiez si vous avez docker d'installé :
