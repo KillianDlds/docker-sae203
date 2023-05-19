@@ -27,7 +27,7 @@ docker --version
 - Cloner le référentiel qui contient l'application
 
 ```shell
-git@github.com:KillianDlds/docker-sae203.git
+git clone git@github.com:KillianDlds/docker-sae203.git
 ```
 
 - Aller au référentiel :
