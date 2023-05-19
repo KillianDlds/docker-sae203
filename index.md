@@ -12,21 +12,25 @@ docker --version
 ```
 
 - Cloner le référentiel qui contient l'application
+
 ```shell
 git@github.com:KillianDlds/docker-sae203.git
 ```
 
 - Aller au référentiel :
+
 ```shell
 cd docker-sae203
 ```
 
 - Construisez une image avec ```docker build``` : 
+
 ```shell
 docker build -t <choisir-un-nom-pour-l'image> .
 ```
 
 - Lancer le serveur web avec ```docker run``` :
+
 ```shell
 docker run -d -p 8080:80 <nom-de-l'image-choisie>
 ```
@@ -36,11 +40,13 @@ docker run -d -p 8080:80 <nom-de-l'image-choisie>
 # 2- Instructions pour fermer l'application
 
 - Arretez le conteneur avec ```docker stop```
+
 ```shell
 docker stop b8f8f406b03c
 ```
 
 - Supprimez le conteneur 
+
 ```shell
 docker rm b8f8f406b03c
 ```
