@@ -1,7 +1,9 @@
-## DESLANDES KILLIAN - LORENZO DEMACEDO - DAMIEN MOREAU
+## docker-sae203
 ## Groupe 5
 
 ------------------------------------------------------
+
+### DESLANDES KILLIAN - LORENZO DEMACEDO - DAMIEN MOREAU
 
 # 1- Instructions pour lancer l'application
 
