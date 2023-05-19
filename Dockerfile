@@ -21,4 +21,6 @@ EXPOSE 3306
 EXPOSE 80
 
 RUN chmod +x /root/start-script.sh 
-CMD /root/start-script.sh
+# CMD /root/start-script.sh
+
+CMD bash -c "service mariadb start && echo \"<?php phpinfo(); ?>\" > /var/www/html/info.php && mysql < /data/create_db.sql && /usr/sbin/apache2ctl -DFOREGROUND"
