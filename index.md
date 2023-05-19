@@ -16,24 +16,8 @@ Les fonctionnlités de notre projet:
 - partie public permettant de regarder ddes videos
 - chaque utilisateurs à acces à ses videos en favoris 
 
-# 2- Instructions pour fermer l'application
 
-- Arretez le conteneur avec ```docker stop```
-
-```shell
-docker stop b8f8f406b03c
-```
-
-- Supprimez le conteneur 
-
-```shell
-docker rm b8f8f406b03c
-```
-
-**Note** : remplacez le code de hashage ```b8f8f406b03c``` par celui que vous avez en fasiant ```docker ps```
-
-
-# 3- Instructions pour lancer l'application
+# 2- Instructions pour lancer l'application
 
 - Vérifiez si vous avez docker d'installé :
 
@@ -66,4 +50,23 @@ docker run -d -p 8080:80 <nom-de-l'image-choisie>
 ```
 
 - Pour finir lancez l'application en allant sur un navigateur et mettre ```localhost:8080``` sur la barre d'URL
+
+
+# 3- Instructions pour fermer l'application
+
+- Arretez le conteneur avec ```docker stop```
+
+```shell
+docker stop b8f8f406b03c
+```
+
+- Supprimez le conteneur 
+
+```shell
+docker rm b8f8f406b03c
+```
+
+**Note** : remplacez le code de hashage ```b8f8f406b03c``` par celui que vous avez en fasiant ```docker ps```
+
+
 
