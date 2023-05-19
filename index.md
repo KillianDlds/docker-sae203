@@ -55,6 +55,6 @@ Pour ce faire nous avons utiliser plusieurs langages de programmation: PhP, css,
 Nous ne connaissions pas php ce qui nous a demandé d'apprendre à utiliser ce langage.
 
 Les fonctionnlités de notre projet:
-    - systeme de connexion pour s'identifier sur le site
-    - partie public permettant de regarder ddes videos
-    - chaque utilisateurs à acces à ses videos en favoris 
+    * systeme de connexion pour s'identifier sur le site
+    * partie public permettant de regarder ddes videos
+    * chaque utilisateurs à acces à ses videos en favoris 
