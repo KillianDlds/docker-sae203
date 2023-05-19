@@ -2,7 +2,7 @@
 ## Groupe 5
 ### DESLANDES KILLIAN - LORENZO DEMACEDO - DAMIEN MOREAU
 ------------------------------------------------------
-![text](gh-pages/VitozStudio.svg)
+![text]([gh-pages/VitozStudio.svg](https://github.com/KillianDlds/docker-sae203/blob/gh-pages/VitozStudio.svg))
 # 1- Instructions pour lancer l'application
 
 - Vérifiez si vous avez docker d'installé :
