@@ -49,7 +49,7 @@ docker rm b8f8f406b03c
 
 # 3- Compte rendu du projet 
 
-Notre projet est un site de video à la demande permettant à des utilisateurs de pouvoir regarder des videos. Les utilisateurs peuvent reagrder les videos soit en tant qu'invité (il ne se connecte pas), ils pourront regarder toute les videos accessible sur le site. Ou soit en se connectant au site lui permettant de regarder les videos et aussi d'acceder à ses videos en favoris.
+> Notre projet est un site de video à la demande permettant à des utilisateurs de pouvoir regarder des videos. Les utilisateurs peuvent reagrder les videos soit en tant qu'invité (il ne se connecte pas), ils pourront regarder toute les videos accessible sur le site. Ou soit en se connectant au site lui permettant de regarder les videos et aussi d'acceder à ses videos en favoris.
 
 Pour ce faire nous avons utiliser plusieurs langages de programmation: PhP, css, html et sql.
 Nous ne connaissions pas php ce qui nous a demandé d'apprendre à utiliser ce langage.
