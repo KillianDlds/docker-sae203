@@ -4,7 +4,7 @@
 ------------------------------------------------------
 ![text](https://github.com/KillianDlds/docker-sae203/blob/gh-pages/logo.svg)
 
-# 1- Instructions pour lancer l'application
+# 1- Compte rendu du projet 
 
 > Notre projet est un site de video à la demande permettant à des utilisateurs de pouvoir regarder des videos. Les utilisateurs peuvent reagrder les videos soit en tant qu'invité (il ne se connecte pas), ils pourront regarder toute les videos accessible sur le site. Ou soit en se connectant au site lui permettant de regarder les videos et aussi d'acceder à ses videos en favoris.
 
@@ -33,7 +33,7 @@ docker rm b8f8f406b03c
 **Note** : remplacez le code de hashage ```b8f8f406b03c``` par celui que vous avez en fasiant ```docker ps```
 
 
-# 3- Compte rendu du projet 
+# 3- Instructions pour lancer l'application
 
 - Vérifiez si vous avez docker d'installé :
 
