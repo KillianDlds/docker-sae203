@@ -2,7 +2,7 @@
 #### Groupe 5
 ### DESLANDES KILLIAN - LORENZO DEMACEDO - DAMIEN MOREAU
 ------------------------------------------------------
-[Default](#){.btn .btn-default}
+
 # 1- Instructions pour lancer l'application
 
 - Vérifiez si vous avez docker d'installé :
